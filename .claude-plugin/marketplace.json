@@ -1,0 +1,12 @@
+{
+  "name": "commentary-to-figjam",
+  "owner": { "name": "Clay Wiedemann" },
+  "description": "Turn a screen recording you talked over into a FigJam board with a screenshot and ticket-ready note per key moment.",
+  "plugins": [
+    {
+      "name": "commentary-to-figjam",
+      "source": "./",
+      "description": "Turn a screen recording you talked over into a FigJam board with a screenshot and ticket-ready note per key moment."
+    }
+  ]
+}
